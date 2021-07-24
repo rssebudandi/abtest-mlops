@@ -1,0 +1,4 @@
+artifact_location: file:///Users/rssebudandi/10accademy/week2/abtest-mlops/scripts/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: ML

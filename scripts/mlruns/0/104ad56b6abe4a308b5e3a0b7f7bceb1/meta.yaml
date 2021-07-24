@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/104ad56b6abe4a308b5e3a0b7f7bceb1/artifacts
+end_time: 1627130831070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 104ad56b6abe4a308b5e3a0b7f7bceb1
+run_uuid: 104ad56b6abe4a308b5e3a0b7f7bceb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627130831014
+status: 3
+tags: []
+user_id: rssebudandi
