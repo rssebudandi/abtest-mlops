@@ -1,4 +1,4 @@
 artifact_location: file:///Users/rssebudandi/10accademy/week2/abtest-mlops/scripts/mlruns/1
 experiment_id: '1'
 lifecycle_stage: active
-name: ML A/B testing
+name: ML_ABtest

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rssebudandi/10accademy/week2/abtest-mlops/scripts/mlruns/1/ac70be003e44441fbf3bec8baec783e4/artifacts
+end_time: 1627241757350
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ac70be003e44441fbf3bec8baec783e4
+run_uuid: ac70be003e44441fbf3bec8baec783e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627241754511
+status: 3
+tags: []
+user_id: rssebudandi
